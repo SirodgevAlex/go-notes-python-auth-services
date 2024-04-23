@@ -1,0 +1,7 @@
+Flask>=2.0.3
+Flask-RESTful==0.3.9
+flask_sqlalchemy>=3.0
+SQLAlchemy==1.4.31
+psycopg2-binary==2.9.9
+Werkzeug==3.0.2
+flask_jwt_extended
